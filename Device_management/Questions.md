@@ -22,42 +22,27 @@ For getPhoneIdBasedOnOs method - The main method should print the phoneId of the
 Before calling these static methods in main, use Scanner object to read the values of four Phone objects referring attributes in the above mentioned attribute sequence. Next, read the value for brand and os.
 
 ## Input
-  111
-  
-  iOS
-  
-  Apple
-  
-  30000
-  
-  222
-  
-  android
-  
-  Samsung
-  
-  50000
-  
-  333
-  
-  Symbian
-  
-  HTC
-  
-  12000
-  
-  444
-  
-  Paranoid
-  
-  HTC
-  
-  89000
-  
-  Blackberry
-  
-  aNdRoid
-  
+
+    111
+    iOS
+    Apple
+    30000
+    222
+    android
+    Samsung
+    50000
+    333
+    Symbian
+    HTC
+    12000
+    444
+    Paranoid
+    HTC
+    89000
+    Blackberry
+    aNdRoid
+
 ## Output
-  The given Brand is not available
-  222
+
+    The given Brand is not available
+    222
