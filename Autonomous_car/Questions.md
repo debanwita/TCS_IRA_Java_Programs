@@ -26,21 +26,13 @@ If the returned value is null then it should print “No Car is available with t
 
 ## Input
 100
-
 Tesla
-
 1000
-
 500
-
 Hills
-
 200
-
 Ford
-
 2000
-
 1500
 Desert
 300
@@ -55,6 +47,7 @@ Mercedez
 Desert
 Desert
 Mercedez
+
 
 ## Output
 1900
