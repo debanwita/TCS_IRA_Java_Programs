@@ -23,23 +23,41 @@ Before calling these static methods in main, use Scanner object to read the valu
 
 ## Input
   111
+  
   iOS
+  
   Apple
+  
   30000
+  
   222
+  
   android
+  
   Samsung
+  
   50000
+  
   333
+  
   Symbian
+  
   HTC
+  
   12000
+  
   444
+  
   Paranoid
+  
   HTC
+  
   89000
+  
   Blackberry
+  
   aNdRoid
+  
 ## Output
   The given Brand is not available
   222
